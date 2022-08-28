@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Paranthaman-P
-- 👀 I’m interested in AI...
-- 🌱 I’m currently learning DL...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Web Developement,Data Science,Java
+- 🌱 I’m currently learning SAP ABAP
+- 💞️ I’m looking to collaborate on Java,Data Analtyics
 - 📫 https://www.instagram.com/paranthaman.official/
 
 <!---
