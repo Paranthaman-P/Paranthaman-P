@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Developement,Data Science,Java
 - 🌱 I’m currently learning SNOW
 - 💞️ I’m looking to collaborate on Spring boot, React , NextJs
-- 📫 https://www.instagram.com/paranthaman.official/
+
 
 <!---
 Paranthaman-P/Paranthaman-P is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
